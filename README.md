@@ -1,8 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br>
 My name is Mashookh Khan
 ======================================================================================================================================
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;Data+Engineering+Enthusiast;Building+Scalable+Systems;Always+Learning+🚀&center=true&width=600&height=50">
+</p>
 
-I build scalable products startups rely on every day
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Open+to+Internship+Opportunities;💼+Open+to+Full-Time+Backend+Roles;⚡+Actively+Seeking+Challenging+Projects&center=true&width=700&height=45&color=00F7FF&vCenter=true&size=22">
+</p>
 ----------------------------------------------------
 
 * 🌍  I'm based in India
