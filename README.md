@@ -21,11 +21,11 @@ I build scalable products startups rely on every day
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiSathya&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiSathya&theme=tokyonight" />
+  <img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MashookhKhanlol&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MashookhKhanlol&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=AbhiSathya&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=MashookhKhanlol&theme=tokyonight&hide_border=true" />
 </p>
 
