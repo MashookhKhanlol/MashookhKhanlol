@@ -35,3 +35,7 @@ My name is Mashookh Khan
   <img width="75%" src="https://streak-stats.demolab.com?user=MashookhKhanlol&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AbhiSathya&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+</p>
+
