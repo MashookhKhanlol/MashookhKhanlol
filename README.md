@@ -36,6 +36,6 @@ My name is Mashookh Khan
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AbhiSathya&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MashookhKhanlol&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
