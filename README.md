@@ -8,7 +8,7 @@ My name is Mashookh Khan
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Open+to+Internship+Opportunities;💼+Open+to+Full-Time+Backend+Roles;⚡+Actively+Seeking+Challenging+Projects&center=true&width=700&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
-----------------------------------------------------
+======================================================================================================================================
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Mashookh Khan](http://my-portfolio-krj6087rj-mashookhkhanlols-projects.vercel.app/)
