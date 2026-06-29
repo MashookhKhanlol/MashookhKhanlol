@@ -27,8 +27,3 @@ I build scalable products startups rely on every day
 ![](https://streak-stats.demolab.com/?user=MashookhKhanlol&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MashookhKhanlol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MashookhKhanlol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mashookhkhanlol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mashookhkhanlol&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
