@@ -11,7 +11,7 @@ My name is Mashookh Khan
 
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Mashookh Khan](http://my-portfolio-krj6087rj-mashookhkhanlols-projects.vercel.app/)
+* 🖥️  See my portfolio at [Mashookh Khan](http://portfolio.flowcrafted.me/)
 * ✉️  You can contact me at [mashookhkhan7862@gmail.com](mailto:mashookhkhan7862@gmail.com)
 * 🧠  I'm currently learning Fine-tuning LLMs, building RAG pipelines
 * 👥  I'm looking to collaborate on Full Stack Development, AI/ML integrations.
